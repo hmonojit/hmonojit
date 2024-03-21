@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monojit H</h1>
 <h3 align="center">Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmonojit&label=Profile%20views&color=0e75b6&style=flat" alt="hmonojit" /> </p>
 
